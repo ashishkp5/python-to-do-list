@@ -4,3 +4,5 @@ return from office
 latest member
 new task for today
 latest item
+Master in Python!!
+Master in AI!!
